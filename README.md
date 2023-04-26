@@ -1,2 +1,2 @@
 # AngSarap
-Gallery Website
+A Simple Gallery Website:).
